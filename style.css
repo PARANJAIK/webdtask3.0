@@ -1,0 +1,25 @@
+body {background-color: #ececec;color:black;}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.c1 {background-color: #f4b915;height:86px;position:relative;width:100%;}
+.c2 {color:white;position:absolute;left:37px;bottom:2px;width:100px;font-size:29px;}
+#i1,#i2,#i3,#i4,#i5,#i6,#i7,#i8 {outline:none;overflow:hidden;resize:none;border:1px solid }
+
+#d1 {background-color:black;position:relative;width:439px;height:128px;left:727px;top:39px;border-top-left-radius:10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius:10px;}
+#d3 {background-color:black;position:relative;width:439px;height:128px;left:727px;top:-216px;visibility:hidden;border-top-left-radius:10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius:10px;}
+
+#i1,#i5 {width:433px;height:26px;position:absolute;left:0px;top:0px;}
+ #i2,#i6 {width:433px;height:101px;border-top:0px solid black;position:absolute;left:0px;top:22px;}
+
+ #d2 {background-color:blue;position:relative;left:20px;top:119px;height:128px;width:270px;visibility:hidden;border-top-left-radius:10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius:10px;}
+#d4 {background-color:blue;position:relative;left:423px;top:-137px;height:128px;width:270px;visibility:hidden;border-top-left-radius:10px;border-top-right-radius: 10px;border-bottom-left-radius: 10px;border-bottom-right-radius:10px;}
+
+#i3,#i7 {width:270px;height:26px;overflow:hidden;position:absolute;left:0px;top:0px;text-decoration:underline;text-align:center;}
+#i4,#i8 {width:270px;height:101px;border-top:0px solid black;position:absolute;left:0px;top:22px;}
+
+#a1,#a2 {width:46px;height:41px;position:absolute;left:384px;top:106px;border-radius:50%;}
+
+#del1,#del2  {width:28px;height:27px;position:absolute;left:227px;top:92px;}
+
